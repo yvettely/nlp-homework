@@ -10,6 +10,6 @@ Using Sentiment Analysis, I have found that:
 2. Bitcoin had the higher compound score than Ethereum.
 3. Bitcoin had the higher positive score than Ethereum.
 
-![Bitcoin WordCloud](Bitcoin_WordCloud.png)
-![Ethereum WordCloud](Ethereum_WordCloud.png)
+![Bitcoin WordCloud](Bitcoin WordCloud.png)
+![Ethereum WordCloud](Ethereum WordCloud.png)
 
